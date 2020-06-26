@@ -1,0 +1,339 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.4.3)  3 MAY 2020 13:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**titlepage.tex
+(./titlepage.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-02-25>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ^^I\begin{center}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--8
+[] 
+ []
+
+! Undefined control sequence.
+l.10 ^^I^^I\Huge
+                ^^I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (27.54001pt too wide) in paragraph at lines 11--12
+ \TU/lmr/bx/n/10 RSA- 
+ []
+
+
+Overfull \hbox (70.34pt too wide) in paragraph at lines 11--12
+ \TU/lmr/bx/n/10 Cryptography 
+ []
+
+! Undefined control sequence.
+l.14 ^^I^^I\large
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Α in font nullfont!
+Missing character: There is no σ in font nullfont!
+Missing character: There is no ύ in font nullfont!
+Missing character: There is no μ in font nullfont!
+Missing character: There is no μ in font nullfont!
+Missing character: There is no ε in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no Κ in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no υ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no γ in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no ά in font nullfont!
+Missing character: There is no φ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no σ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no α in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ν in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no τ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ω in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ν in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ά in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no κ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no η in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ς in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no τ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ύ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ρ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ς in font [lmroman10-bold]:mapping=tex-text;!
+
+Overfull \hbox (39.8pt too wide) in paragraph at lines 18--18
+ []\TU/lmr/bx/n/10 Παπαντωνάκης 
+ []
+
+
+Overfull \hbox (25.11pt too wide) in paragraph at lines 18--18
+ \TU/lmr/bx/n/10 Σταύρος 
+ []
+
+
+Overfull \hbox (51.01pt too wide) in paragraph at lines 18--19
+ []\TU/lmr/bx/n/10 CSE45227 
+ []
+
+Missing character: There is no Α in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no φ in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no ά in font nullfont!
+Missing character: There is no δ in font nullfont!
+Missing character: There is no ε in font nullfont!
+Missing character: There is no ύ in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ε in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no υ in font nullfont!
+Missing character: There is no ε in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no γ in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no σ in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no ύ in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no σ in font nullfont!
+Missing character: There is no φ in font nullfont!
+Missing character: There is no ά in font nullfont!
+Missing character: There is no λ in font nullfont!
+Missing character: There is no ε in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no ς in font nullfont!
+Missing character: There is no Α in font nullfont!
+Missing character: There is no Σ in font nullfont!
+Missing character: There is no Φ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.25 ^^I^^I^^I\includegraphics
+                              [width=0.4\textwidth]{image/logo.jpg}^^I^^I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.25 ...^I^^I\includegraphics[width=0.4\textwidth]
+                                                  {image/logo.jpg}^^I^^I
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.25 ...^I^^I\includegraphics[width=0.4\textwidth]
+                                                  {image/logo.jpg}^^I^^I
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ^^I^^I\normalsize
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no Τ in font nullfont!
+Missing character: There is no μ in font nullfont!
+Missing character: There is no ή in font nullfont!
+Missing character: There is no μ in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no Μ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no χ in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no κ in font nullfont!
+Missing character: There is no ώ in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no Π in font nullfont!
+Missing character: There is no λ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no φ in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no ρ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no κ in font nullfont!
+Missing character: There is no ή in font nullfont!
+Missing character: There is no ς in font nullfont!
+Missing character: There is no κ in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no Υ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no λ in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no γ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no σ in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ώ in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no Π in font nullfont!
+Missing character: There is no α in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no ε in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no σ in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ή in font nullfont!
+Missing character: There is no μ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no ο in font nullfont!
+Missing character: There is no Δ in font nullfont!
+Missing character: There is no υ in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no κ in font nullfont!
+Missing character: There is no ή in font nullfont!
+Missing character: There is no ς in font nullfont!
+Missing character: There is no Α in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no τ in font nullfont!
+Missing character: There is no ι in font nullfont!
+Missing character: There is no κ in font nullfont!
+Missing character: There is no ή in font nullfont!
+Missing character: There is no ς in font nullfont!
+Missing character: There is no Α in font nullfont!
+Missing character: There is no θ in font nullfont!
+Missing character: There is no η in font nullfont!
+Missing character: There is no ν in font nullfont!
+Missing character: There is no ά in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> titlepage.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 479805
+ 403 string characters out of 5896669
+ 245023 words of memory out of 5000000
+ 17257 multiletter control sequences out of 15000+600000
+ 532346 words of font info for 25 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 13i,1n,15p,74b,116s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

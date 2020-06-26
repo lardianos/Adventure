@@ -1,0 +1,6 @@
+\babel@toc {greek}{}
+\contentsline {section}{\numberline {1}Σενάριο Παιχνιδιού}{4}{section.1}%
+\contentsline {section}{\numberline {2}Περιβάλλον Και Αντικείμενα}{4}{section.2}%
+\contentsline {section}{\numberline {3}Περιγραφή Αρχείου Εισόδου}{7}{section.3}%
+\contentsline {section}{\numberline {4}Διαγράμματα Κλάσεων}{10}{section.4}%
+\contentsline {section}{\numberline {5}Περιγραφή Σεναρίου Χρήσης}{14}{section.5}%
